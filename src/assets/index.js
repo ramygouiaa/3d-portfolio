@@ -1,6 +1,4 @@
 import logo from "./logo.svg";
-import logo_rg from "./logo-color.svg";
-import rg_logo from "./rg-logo.svg";
 import backend from "./backend.png";
 import creator from "./creator.png";
 import mobile from "./mobile.png";
@@ -34,8 +32,6 @@ import tripguide from "./tripguide.png";
 
 export {
   logo,
-  logo_rg,
-  rg_logo,
   backend,
   creator,
   mobile,
