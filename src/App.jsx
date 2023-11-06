@@ -1,8 +1,9 @@
-function App() {
+const App = () => {
   
-
   return (
-    <div></div>
+    <div>
+      3D Developper portfolio
+    </div>
   )
 }
 
