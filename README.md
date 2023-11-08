@@ -8,7 +8,7 @@ this is a React.js App implemented using Vite as a dev tool and the Three.js lib
 
 1- download or clone the repository
 
-2- cd <repository>
+2- cd repository
 
 3- installation: 
 
