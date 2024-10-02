@@ -86,7 +86,9 @@ const Contact = () => {
           className="mt-12 flex flex-col gap-8"
         >
           <label className="flex flex-col">
-            <span className="text-white font-medium mb-4">Ramy Gouiaa</span>
+            <span className="text-white font-medium mb-4">
+              <a href="https://encr.pw/ramygouiaaresume">My resume</a>
+            </span>
           </label>
           <label className="flex flex-col">
             <span className="text-white font-medium mb-4">
@@ -95,7 +97,21 @@ const Contact = () => {
           </label>
           <label className="flex flex-col">
             <span className="text-white font-medium mb-4">
-              https://github.com/ramygouiaa
+              <a href="https://www.instagram.com/ramygouia?igsh=Z2V1aXB5MDNkNjYw">
+                Instagram
+              </a>
+            </span>
+          </label>
+          <label className="flex flex-col">
+            <span className="text-white font-medium mb-4">
+              <a href="https://www.facebook.com/rg.enpersonne?mibextid=ZbWKwL">
+                Facebook
+              </a>
+            </span>
+          </label>
+          <label className="flex flex-col">
+            <span className="text-white font-medium mb-4">
+              <a href="https://github.com/ramygouiaa">Github</a>
             </span>
           </label>
         </form>
