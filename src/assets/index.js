@@ -20,15 +20,22 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import postgreSQL from "./tech/postgreSQL.svg";
+import ethereum from "./tech/ethereum.svg";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
+import capgemini from "./company/capgemini.png";
+import hrw from "./company/hrw.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import crowdfunding from "./crowdfunding.png";
+import invoice from "./invoice.png";
+import inventory from "./inventory.png";
 
 export {
   logo,
@@ -59,4 +66,11 @@ export {
   carrent,
   jobit,
   tripguide,
+  postgreSQL,
+  ethereum,
+  capgemini,
+  hrw,
+  crowdfunding,
+  invoice,
+  inventory,
 };
