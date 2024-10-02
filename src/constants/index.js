@@ -178,7 +178,7 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Croudfunding (DApp)",
+    name: "Crowdfunding (DApp)",
     description:
       "a decentralized Web-based platform that helps startups in creating and monitoring crowdfunding campaigns, running on Ethereum blockchain",
     tags: [
