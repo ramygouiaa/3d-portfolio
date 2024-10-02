@@ -180,7 +180,7 @@ const projects = [
   {
     name: "Crowdfunding (DApp)",
     description:
-      "a decentralized Web-based platform that helps startups in creating and monitoring crowdfunding campaigns, running on Ethereum blockchain",
+      "A decentralized Web-based platform that helps startups in creating and monitoring crowdfunding campaigns, running on Ethereum blockchain",
     tags: [
       {
         name: "react",
@@ -222,7 +222,7 @@ const projects = [
   {
     name: "Invoice generator",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "A Web application that generates bills and invoices useful for stores, merchants or freelancers.",
     tags: [
       {
         name: "react",
