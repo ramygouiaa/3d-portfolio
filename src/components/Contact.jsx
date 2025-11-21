@@ -87,7 +87,7 @@ const Contact = () => {
         >
           <label className="flex flex-col">
             <span className="text-white font-medium mb-4">
-              <a href="https://encr.pw/ramygouiaaresume" target="_blank">
+              <a href="https://drive.google.com/file/d/1KWypZpOwPp8MMb9_6mKdmWgLJmpNmoao/view?usp=drive_link" target="_blank">
                 My resume
               </a>
             </span>
