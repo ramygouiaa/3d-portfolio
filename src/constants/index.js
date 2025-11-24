@@ -117,6 +117,19 @@ const technologies = [
 
 const experiences = [
   {
+    title: "Freelance Developer and AI Automation Specialist",
+    company_name: "Tunis / Remote",
+    icon: creator,
+    iconBg: "#915EFF",
+    date: "Oct 2023 - Nov 2024",
+    points: [
+      "Intelligent Meeting Automation: Developed AI agents for automated appointment management via Telegram and WhatsApp with direct integration to Google Calendar and Cal.com",
+      "Conversational AI: Implemented intelligent chatbots for automated information gathering and customer communication via messaging platforms",
+      "Workflow Orchestration: Built complex automation workflows with n8n to connect various services (Supabase, Airtable, Google Workspace)",
+      "Data Integration: Seamless synchronization between communication channels (Telegram/WhatsApp), databases (Supabase), and productivity tools (Google Sheets, Airtable)",
+    ],
+  },
+  {
     title: "Software Developer",
     company_name: "Capgemini",
     icon: capgemini,
