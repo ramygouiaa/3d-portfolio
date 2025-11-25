@@ -25,6 +25,7 @@ import {
   inventory,
   invoice,
   freelance,
+  secureChatApp,
 } from "../assets";
 
 export const navLinks = [
@@ -253,6 +254,31 @@ const projects = [
     ],
     image: invoice,
     source_code_link: "https://github.com/ramygouiaa/invoice-generator",
+  },
+  {
+    name: "SecureChat App",
+    description:
+      "A secure, real-time chat application that supports text messaging, file sharing, and end-to-end encrypted video and voice calls. It uses a Node.js server for signaling and serves the front-end application.",
+    tags: [
+      {
+        name: "html",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "nodejs",
+        color: "green-text-gradient",
+      },
+      {
+        name: "tailwind",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "webrtc",
+        color: "blue-text-gradient",
+      },
+    ],
+    image: secureChatApp,
+    source_code_link: "https://github.com/ramygouiaa/secure-chat-app",
   },
 ];
 
