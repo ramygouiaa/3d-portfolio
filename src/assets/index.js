@@ -37,6 +37,7 @@ import tripguide from "./tripguide.png";
 import crowdfunding from "./crowdfunding.png";
 import invoice from "./invoice.png";
 import inventory from "./inventory.png";
+import secureChatApp from "./secure-chat-app.png";
 
 export {
   logo,
@@ -48,6 +49,7 @@ export {
   menu,
   close,
   freelance,
+  secureChatApp,
   css,
   docker,
   figma,
