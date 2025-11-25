@@ -28,13 +28,13 @@ const ProjectCard = ({
         className="bg-tertiary p-5 rounded-2xl sm:w-[360px] w-full"
       >
         <div
-          className="relative w-full h-[210px] cursor-pointer"
+          className="relative w-full h-[210px] cursor-pointer overflow-hidden"
           onClick={() => onPreview(image)}
         >
           <img
             src={image}
             alt="project_image"
-            className="w-full h-full object-contain rounded-2xl"
+            className="w-full h-full object-contain rounded-2xl scale-110"
           />
 
           <div className="absolute inset-0 flex justify-end m-3 card-img_hover">
