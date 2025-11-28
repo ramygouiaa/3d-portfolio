@@ -38,6 +38,10 @@ export const navLinks = [
     title: "Work",
   },
   {
+    id: "automation",
+    title: "AI & Automation",
+  },
+  {
     id: "contact",
     title: "Contact",
   },
@@ -282,4 +286,59 @@ const projects = [
   },
 ];
 
-export { services, technologies, experiences, testimonials, projects };
+const automations = [
+  {
+    title: "Intelligent Meeting Automation",
+    platform: "N8N + Telegram/WhatsApp Integration",
+    icon: freelance,
+    iconBg: "#E6DEDD",
+    description: "Developed AI agents for automated appointment management with seamless integration between messaging platforms and calendar systems.",
+    tools: ["N8N", "Google Calendar", "Cal.com", "Telegram Bot API", "WhatsApp API"],
+    achievements: [
+      "Automated 500+ meeting scheduling requests",
+      "90% reduction in manual coordination time",
+      "Real-time calendar synchronization across platforms"
+    ]
+  },
+  {
+    title: "Conversational AI Chatbots",
+    platform: "N8N + AI/ML Integration",
+    icon: freelance,
+    iconBg: "#383E56",
+    description: "Implemented intelligent chatbots for automated information gathering and customer communication via messaging platforms.",
+    tools: ["N8N", "OpenAI API", "Telegram", "WhatsApp", "Natural Language Processing"],
+    achievements: [
+      "24/7 automated customer support",
+      "Multi-language conversation handling",
+      "Intelligent context-aware responses"
+    ]
+  },
+  {
+    title: "Workflow Orchestration Platform",
+    platform: "N8N Multi-Service Integration",
+    icon: freelance,
+    iconBg: "#E6DEDD",
+    description: "Built complex automation workflows connecting various services for seamless data flow and process automation.",
+    tools: ["N8N", "Supabase", "Airtable", "Google Workspace", "REST APIs", "Webhooks"],
+    achievements: [
+      "20+ services integrated in unified workflows",
+      "Real-time data synchronization",
+      "Custom webhook endpoints for third-party integrations"
+    ]
+  },
+  {
+    title: "Data Integration & Synchronization",
+    platform: "Multi-Platform Data Pipeline",
+    icon: freelance,
+    iconBg: "#383E56",
+    description: "Seamless synchronization between communication channels, databases, and productivity tools with automated data transformation.",
+    tools: ["N8N", "Telegram", "WhatsApp", "Supabase", "Google Sheets", "Airtable"],
+    achievements: [
+      "Cross-platform data consistency",
+      "Automated data transformation and validation",
+      "Zero manual data entry for routine operations"
+    ]
+  }
+];
+
+export { services, technologies, experiences, testimonials, projects, automations };
